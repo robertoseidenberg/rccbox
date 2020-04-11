@@ -1,0 +1,54 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  margin-bottom: 0;
+  text-align: left;
+  left: 2rem;
+}
+
+h2 {
+  margin-bottom: 0;
+  text-align: left;
+}
+
+p {
+  text-align: left;
+  margin-bottom: 0;
+  width: 75rem;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.section {
+  position: relative;
+  padding: 0;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.text {
+  position: absolute;
+  left: 2rem;
+  bottom: 2rem;
+}
+
+
+.button {
+  color: white;
+}
+
+.borderless {
+  background-color: none;
+  padding: 0;
+  border: none;
+  background: none;
+}
